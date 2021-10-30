@@ -1,0 +1,5 @@
+.idea
+client/node_modules
+client/.gitignore
+client/package-lock.json
+client/yarn.lock

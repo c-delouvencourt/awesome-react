@@ -1,0 +1,25 @@
+{
+  "name": "awesome-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PHClement/awesome-react.git"
+  },
+  "keywords": [
+    "awesome",
+    "react",
+    "libraries",
+    "awesome-react"
+  ],
+  "author": "PHClement",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PHClement/awesome-react/issues"
+  },
+  "homepage": "https://github.com/PHClement/awesome-react#readme"
+}
