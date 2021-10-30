@@ -1,5 +1,5 @@
 
-<a href="https://github.com/PHClement"><img src="https://awesome-react.com/static/media/logo.89f062f0.png"  height="50" width="174"/></a>
+<a href="https://github.com/PHClement"><img src="https://i.imgur.com/0vm3SgU.png"  height="50" width="174"/></a>
 
 ## Awesome-React
 **🔥 A collection of awesome React components and libraries.**
