@@ -57,7 +57,7 @@ export default function Nav(props) {
                         <img src={colorMode === 'light' ? logo : logoWhite} style={{height: 40}}/>
                     </Box>
 
-                    <Flex alignItems={'center'}>
+                    <Flex alignItems={'center'} className={"hide-mobile"}>
                         <Input placeholder="Search a React Library..." width={400}  onChange={(e) => setSearchTerm(e.target.value)} />
                         {props.isLoading && <Spinner size={"sm"} marginLeft={3}/>}
                     </Flex>
